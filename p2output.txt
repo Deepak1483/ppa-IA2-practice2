@@ -1,1 +1,10 @@
-
+ gcc -g p2original.c
+ ./a.out
+enter the sides of the triangle
+5
+enter the sides of the triangle
+5
+enter the sides of the triangle
+5
+the given triangle is not a scalene
+ 
